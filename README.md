@@ -6,7 +6,7 @@ For this project, I generated comments underneath reddit posts under the usernam
 
 The image below is probably my favorite thread as I 
 
-# of Valid Comments counted from bot.py file
+# Number of Valid Comments counted from bot.py file
 ```
 cyrus@Cyruss-MacBook-Air-2 cyrusg645.github.io % /usr/local/bin/python3 /Users/cyrus/Documents/GitHub/cyrusg645.github.io/bot_counter.py --username=cgaylord25bot
 len(comments)= 1000
