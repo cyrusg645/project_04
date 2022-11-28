@@ -1,6 +1,6 @@
 # project_04
 
-For this project, I generated comments underneath reddit posts under the username @cgaylord25bot in the form of a madlibs related to random tidbits about myself. 
+For this project, I generated comments underneath reddit posts under the username @cgaylord25bot in the form of a madlibs related to tidbits about myself. 
 
 # Favorite Thread
 
