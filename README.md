@@ -1,10 +1,10 @@
 # project_04
 
-For this project, I generated comments underneath reddit posts under the username @cgaylord25bot in the form of a madlibs related to tidbits about myself. 
+For this project, I generated comments underneath reddit posts under the username @cgaylord25bot in the form of a madlibs related to tidbits about myself. I wrote it in this form as I wanted to write it in a theme that wasn't about politics but was still connected.
 
 # Favorite Thread
 
-The image below is probably my favorite thread as I 
+My favorite [thread](https://www.reddit.com/r/cs40_2022fall/comments/z6ml34/a_possibility_for_a_win_in_cured_ballots/) can be seen in the image below. Personally, I like the contrast between the political messages and my more light-hearted messages about learning python. I also like being able to see my bots comment alongside some of my other classmates to see what they are writing their madlibs about. ![Favorite Thread](https://raw.githubusercontent.com/cyrusg645/project_04/main/favorite_thread.png)
 
 # Number of Valid Comments counted from bot.py file
 ```
@@ -25,7 +25,7 @@ For my valid comments, I was only able to reach 700 as my number of valid commen
 
 # Extra Credit Points:
 
-For extra credit, I was able to get my bot to make 200+ submissions to the CS_40 subreddit using my ```bot_submissions.py``` file giving me 2 points of extra credit. I was able to get my bot to reply to the comments with the largest number of comments which gives me 2 points as well. Lastly, I created a ```bot_vote.py``` file that utilized the feature Textblob which downvoted posts if they had positive sentiments about Trump and vice versa. Through this, I would get 4 points of extra credit. 
+For extra credit, I was able to get my bot to make 200+ submissions to the CS_40 subreddit using my ```bot_submissions.py``` file giving me 2 points of extra credit. I was able to get my bot to reply to the comments with the largest number of comments instead of random commnets which gives me 2 points as well. Lastly, I created a ```bot_vote.py``` file that utilized the feature Textblob which downvoted posts if they had positive sentiments about Trump and vice versa. Through this, I would get 4 points of extra credit. 
 
 # Overall Points:
 
